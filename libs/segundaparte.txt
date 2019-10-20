@@ -1,0 +1,137 @@
+TELA 
+(dialogo)
+$: voltar para terra é a melhor solução que temos... precisamos de um novo capitão
+Emily: você deveria ser o capitão $.
+Bryan: eu concordo
+Robert: é obvio que deveria ser voce $
+(opções) 
+opção 1: ser o capitão
+(- 15 e stamina)
+opções 2: deixar para Julie por ela ser a mais experiente
+(- 15 de felicidade)
+resultado da opção 1:
+
+SEGUNDA FEIRA DA DECIMA TERCEIRA SEMANA
+Agora você é o capitão responsavel pela expedição e tem a tarefa de voltar para a terra com as informações coletadas
+
+imprevisto 
+Bryan: Capitão eu nao me sinto (Bryan desmaia)
+$: Emily, faça algo
+Emily: Agora mesmo, capitão
+
+timing
+Emily: Capitão, ele foi picado por um animal hostil na terra reserva, mas a boa noticia é que esta fora de perigo
+Julie: temos outro problema, um erro no armazenador de arquivos, e agora nao temos um programador para cuidar disso
+$: Não é possivel tanto azar em uma viagem
+
+(opções)
+opção 1: apressar Emily com a cura
+(-10 de felicidade) isso complicará ainda mais o estado de saude de Bryan
+opção 2: tentar solucionar sozinho o problema do armazenador de arquivos
+(-15 de stamina) quanto mais o problema demorar para ser solucionado, mais porcentagem de dados coletados na viagem voçê perderá
+interação com o armazenador de arquivos
+(dialogo)
+Julie: Parece que o problema ta resolvido
+Emily: ele vai ficar bem, so precisa de algumas horas de descanso 
+$: Otimo. Vamos voltar a andar, precisamos nos apressar
+
+timing
+TELA
+TERÇA-FEIRA
+
+ (dialogo)
+
+  Bryan: Como assim eu quase morri???
+  Emily: Bryan calma
+  Bryan: Calma? fui picado por algo que nem sei oque é
+  Julie: Ei, todos sabiamos que haveria riscos
+  Bryan: Tem razão, acho que perdi um pouco a cabeça... oque voces tem pra mim
+  $: Ontem após o seu pequeno incidente, tivemos um problema com o armazenador de arquivos e acabamos perdendo alguns dados coletados, mas eu consegui resolver e não é algo com oque devemos nos preocupar agora...
+
+  precisamos chegar o mais tardar amanhã ou não conseguiremos atravessar o buraco de minhocas. Preciamos de mais propunção na nave
+  Bryan: eu não sei se temos combustivel suficiente para isso
+  Robert: e se aliviarmos o peso da nave
+  Julie: Você é louco? so temos coisas necessarias nessa nave
+  Robert: se chagarmos ao buraco de minhocas ainda hoje não precisaremos de recuros
+  Julie: E se ocorrer outro imprevisto? Capitão, não faça isso
+  Robert: $, talvez seja a nossa unica chance
+
+  (opções)
+  Opção 1: Escutar Robert e aliviar o peso da nave
+  (-20 hp da nave, -10 conbustivel)
+Opção 2: Escutar Julie e tentar chegar ao buraco de minhocas sem se livrar dos recursos necessários
+(-30 de combustivel)
+ 
+ TIMING
+
+ (dialogo)
+Robert: Okay, okay, ta gravando? vamos la. É o segundo dia da decima terceira semana. Eu não tenho muito mais oque relatar aqui, então, se eu estiver morto, quero que...
+$: Oque voce esta fazendo???
+Robert: é o meu diario de bordo, quero que seja entregue a minha familia.
+(opções)
+Opção 1: Escuta, agora eu sou o capitão dessa nave e eu vou fazer com que ela e os seus tripulantes cheguem são e salvos em casa porque essa é a minha missão
+opção 2: isso é uma otima ideia Robert, na verdade todos deveriam fazer o mesmo, não sabemos oque acontecerá conosco ao final dessa expedição
+
+TIMMING
+ 
+ TELA VERMELHA PISCANDO - LUZ DE EMERGÊNCIA 
+(dialogo)
+$: E essa agora?
+Bryan: oh oh é do resevartorio de combustivel consertar agora mesmo.
+(opções)
+Opção 1: ajudar o Bryan a consertar
+(o problema sera resolvido sem muita perda de combustivel -15 de stamina)
+Opção 2: deixa Bryasn consertar sozinho
+(-15 combustivel)
+
+TELA
+QUARTA-FEIRA
+$: estamos nos aproximando do buraco de minhocas
+Bryan: Temos tempo para fazer alguns reparos necessarios na nave ante de prosseguir, ja que sabemos que enfrentaremos turbulencias ao passar pelo buraco de minhocas
+(opções) 
+Opção 1: fazer reparos
+(+ 20 HP da nave, - 20 stamina)
+Opção 2: prosseguir sem fazer os reparos
+(- 25 HP da nave)
+$: podemos aumentar a velocidade
+Bryan: Consumiremos mais combustivel
+(Opções)
+Opção 1: Usar Força Maxima
+(a turbulencia ao passar pelo buraco de minhocas sera menor e a nave perderá menos HP, - 30 combustivel)
+Opção 2: continuar na mesma velocidade
+(a turbulencia sera maior e a nave perderá mais HP)
+
+Timing...
+
+Entrando no buraco de minhocas em 
+1...
+2...
+3...
+
+A nave passa por uma turbulencia dessa vez ja danificada pela viagem
+(na velocidade maxima - 5 HP da nave)
+$: Atenção... estamos no nosso sistema solar
+Emily: Nem acredito
+Julie: Parece ate um sonho
+Robert: Vou ver minha familia
+
+ALERTA! ALERTA! ALERTA!
+
+Bryan: Droga, tem um problema no sistema da nave ela vai...
+
+(nave desliga))
+
+Bryan: Desligar
+$: Voçê pode consertar, não é?
+Bryan: Posso mas isso significaria o fim da missão. Eu teria que reiniciar todo o sistema nos perderiamos todos os dados que coletamos
+Julie: $, voce precisa ir para a terra usando a capsula, e entregar os dados, tenho certeza que ficaremos bem, ate seja relizada uma missão de resgate para nos levar de volta, mas os dados são mais importantes
+
+Voçe tem duas escolhas 
+
+Opção 1: entrarsozinho na capsula e ir para terra entregar os dados e espera ate que uma nave de resgate seja mandada para salvar a tripulação
+Opção 2: Não correr o risco e ordenar que Bryan resete o sistema mesmo sabendo que perderá os dados coletados e não salvará a terra
+
+Resultados
+Opção 1: Sucesso na missão assim que voce chegou ao planeta terra, os dados foram entregues e teve otimos resultados, para que a população seja transportada para o seu novo lar, imediatamente a NASA enviou uma nave de resgate em busca da tripulação da APOLLO 2098. FINAL BOM
+Ooção 2: Bryan reinicia a o sistema da nave, ela volta a funcionar, e a APOLLO 2098 volta retorna a terra com a sua tripulação sã e salva porem sem sucesso na missão. A terra continua a se aproximar cada vez mais do seu fim. FINAL RUIM
+

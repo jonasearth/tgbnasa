@@ -1,0 +1,294 @@
+capitulo 1: a terra devastada
+o ano é 2097 e as consequencias do aquecimento global são irreversiveis.
+
+*PRIMEIRA TELA:
+DIGITE SEU NOME E SEU ULTIMO NOME:
+
+(dialogo)
+jornalista:
+"O aumento da densidade demográfica, trouxe consigo um número excessivamente maior de emissão de gases estufa na camada de ozônio, consequemente elevando a temperatura do planeta, dificultando a vida.
+Cientistas elaboraram previsões e chegaram a conclusão que devido a esse aumento gradual da temperatura com o crescimento populacional descontrolado, nos dariam apenas mais alguns anos neste planeta.
+A NASA que focou seus recursos em encontrar uma solução, descobriu um planeta a milhares de anos-luz de distância, apesar do planeta aparentemente possuir caracteristicaas favoraveis a vida, apenas uma expedição poderia confirmar esta informação, mas percorrer está distãncia antes do fim da previsão, não seria possivel.
+A empresa ARK sabendo disto, milagorsamente com seus grandes cientistas descobriu uma maneira de abrir artificialmente um buraco de minhoca para outro ponto do espaço do espaço tempo, se assemelhando  a um atalho, com o objetivo de possibilitar esta expredição.
+Fontes, afirmam que a NASA imediatamente disponibilizou todos seus recursos para que esta expedição ocorra o mais rápido e eficientemente possível."  
+
+$ é um atronauta.
+A ARK e a NASA, resolveram seleciona-lo, para a missão APOLLO 2098.
+Você acha que é capaz de salvar a humanidade?
+Veremos...
+
+capitulo 2: A viagem
+
+*SEGUNDA TELA:
+
+ja na nave, a capitão reune a sua tripulação.
+(dialogo)
+Steve: 
+"Oi, meu nome é Steve Carter, sou o capitão e responsável por conduzir esta expedição.
+ Como vocês já sabem, algumas informações sobre a nossa missão vazaram em midia nacional nessa manhã o que nos pressiona ainda mais a não falhar nessa expediçao. Não chegou ao conhecimento da mídia que nós temos apenas 3 meses(aproximadamente 12 semanas) para chegarmos no planeta que queremos, verificarmos a possibilidade de vida e emitirmos essa informações por um sinal que passará pelo buraco de minhoca e chegará a terra.
+ Se nossas previsões estiverem de fato corretas, a humanidade será transportada para cá em seguida.
+ O buraco de minhoca só ficará estavel pelo periodo de 3 meses, então, mesmo que o planeta seja adequado para a vida humana, tudo pode ir por água á baixo, se o buraco sair de controle e se fechar... Só temos uma chance.
+
+Timing
+
+Agora, quero que vocês se apresentem!"
+
+"Meu nome é David Smith, tenho 24 anos, e sou explorador há 2 anos."
+
+"Eu me chamo, Julie Adams, tenho 35 anos, sou considerada uma renomada engenheira e possuo muita experiência."
+
+Steve: "Bom... Logo, logo, saberemos...
+
+Próximo!"
+
+"Sou Bryan Dylan e sou considerado um prodígio no quesito, programação. Tenho 19 anos e garanto me esforçar para atingirmos nosso objetivo e a continuidade da raça humana."
+
+"Sou médica, me chamo, Emily Suzan, sou médica e particularmente, sua fã."
+
+Steve: "Muito obrigado, não é para menos, já que sou considerado um do grandes astronautas da minha geração. Agora, você que ainda não disse nada. Se apresente!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRIMEIRA TELA DE ESCOLHA:
+
+"-Me chamo $, e estou muito empolgado com esta expedição, espero que nossa relação seja a melhor possivel."
+
+resposta para a primeira escolha:
+Steve: "Não estamos aqui para estabelecermos relações, senhor $, a única coisa que eu quero de vocês é um bom desempenho nessa missão.. Estamos aqui para salvar a humanidade e não, para sermos amigos! "
+
+"-Prefiro não falar muito sobre mim, me chamo $ e eu espero um bom desempenho nessa missão"
+
+Steve: "Apesar de não acreditar muito em relações, acredito que vamos ter uma boa convivência, mas já aviso, que não gosto de gente misteriosa.."
+(-5 HAPPINESS)
+
+
+
+
+Steve:"Informo a vocês que a cada semana, teremos que fazer a manutenção da nave, isso nos custará energia... Também temos que estar atentos aos imprevistos, bem-vindos, espero que nossa viagem seja bem sucedida!"
+
+
+
+
+
+SEGUNDA TELA DE ESCOLHA:
+
+
+AO FIM DA PRIMEIRA SEMANA...
+OS TRIPULANTES PRECISAM FAZER A MANUTENÇÃO DA NAVE
+
+- 1. CONSERTAR A PARTE EXTERNA DA NAVE
+(100/100 HP - SHIP)(-10 STAMINA - PLAYER) -> O CAPITÃO GOSTOU DA SUA ATITUDE
+
+- 2. TRASNFORMAR MINÉRIO EXPLORADO EM COMBUSTIVEL
+(100/100 FUEL - SHIP)(-10 STAMINA - PLAYER) -> O CAPITÃO GOSTOU DA SUA ATITUDE
+
+- 3. NÃO FAZER NADA!
+(- 20 HP - SHIP)(- 20 FUEL - SHIP) -> O CAPITÃO NÃO GOSTOU DA SUA ATITUDE -STEVE "VOCÊ FAZ PARTE DESSA EQUIPE, PRECISO QUE AJUDE OS OUTROS, SOMOS UMA EQUIPE!)
+
+
+
+
+
+
+
+TERCEIRA TELA DE ESCOLHA:(AINDA NA PRIMEIRA SEMANA)
+ATENÇÃO! ATENÇÃO! ATENÇÃO!
+
+TIMING
+
+
+PRIMEIRO IMPREVISTO! A NAVE FOI ATINGIDA DE RASPÃO POR UM METEORITO, O QUE DANIFICOU PARTE DA ESTRUTURA EXTERNA!
+(-20 HP == 80/100 HP - SHIP)
+
+
+- 1. AJUDE JULIE A TENTAR CONSERTAR
+(+10 HP == 90/100 HP - SHIP)(-10 STAMINA - PLAYER) -> O CAPITÃO GOSTOU DA SUA ATITUDE
+
+- 2. DEIXE JULIE TENTAR CONSERTAR SEM SUA AJUDA
+(+5 HP == 85/100 HP - SHIP)(+10 STAMINA - PLAYER) -> O CAPITÃO NÃO ACHOU NADA(-10 HAPPINESS == 90/100 PLAYER)
+
+- 3. TENTE CONSERTAR POR CONTA PRÓPRIA
+(+5 HP == 85/100 HP - SHIP)(-15 STAMINA - PLAYER) -> O CAPITÃO GOSTOU DA SUA ATITUDE
+
+
+
+
+
+
+TIMING
+
+
+
+
+
+
+
+QUARTA TELA DE ESCOLHA:(SEGUNDA SEMANA)
+
+
+- 1. INTERAJA COM OS OUTROS TRIPULANTES E AJUDE-OS NAS ATIVIDADES DE MANUTENÇÃO -> O CAPITÃO GOSTOU DA SUA ATITUDE
+(SHIP + 10 HP)(+5 HAPPINNESS - PLAYER)(- 10 STAMINA - PLAYER)
+
+- 2. DESCANSAR...
+(+10 HAPPINESS - PLAYER)(+ 10 STAMINA - PLAYER)- SE TRABALHOU NA ULTIMA ESCOLHA = NADA ACONTECE - SE NÃO TRABALHOU, O CAPITÃO NÃO GOSTARÁ (- 5 DE HAPPINESS)
+
+
+
+
+
+
+
+QUINTA TELA: (TERCEIRA SEMANA)
+
+O BANHEIRO PRECISA DE LIMPEZA
+(-5 HAPPINESS)
+
+- 1. lIMPE O BANHEIRO
+(+10 HAPPINESS)(-10 STAMINA)
+
+- 2. PEÇA AJUDA DE ALGUÉM PARA LIMPAR O BANHEIRO
+(+5 HAPPINESS)(-5 STAMINA)
+
+
+
+
+
+
+
+
+SEXTA TELA: (QUARTA SEMANA)
+
+UMA CHUVA DE ATEROIDES SE APROXIMA, PROTEJA A NAVE!
+CLIQUE NOS ASTEROIDES ANTES QUE ELES FIQUEM COMPLETAMENTE VERMELHOS, QUANTO MAIS VERMELHO ELES FICAREM, MAIS PERTO DE COLIDIR COM A NAVE ELES ESTARAM!
+
+*PARA CADA ASTEROIDE QUE O ATINJA(-5 HP)
+
+
+
+
+
+SÉTIMA TELA: (QUINTA SEMANA)
+APÓS A CHUVA...
+
+- 1. DESCANSAR APÓS CHUVA DE ASTERÓIDES -> CASO NAVE ATINGIDA NA CHUVA(-10 HP -SHIP), CASO NÃO: NADA.
+(+10 STAMINA)(+10 HAPPINESS)
+
+- 2.FAÇA A MANUTENÇÃO DA NAVE E REFORCE A PARTE EXTERNA, PARA QUE RESISTA AS TURBULÊNCIAS DO BURACO DE MINHOCA
+(-10 STAMINA - PLAYER)(-5 HAPPINESS -  PLAYER)(+10 HP - SHIP)
+
+
+
+
+
+OITAVA TELA: (SEXTA SEMANA)
+VOCÊ ESTÁ PRESTES A ENTRAR NO BURACO DE MINHOCA!
+SE PREPARE COM A TRIPULAÇÃO
+
+CONTAGEM PARA ENTRADA NO BURACO DE MINHOCA..
+1...
+2...
+3...
+
+A NAVE ENFRENTOU MUITAS TURBULÊNCIAS, MAS O OBJETIVO FOI CONCLUIDO, ELA ATRAVESSOU O BURACO DE MINHOCA E ESTA CADA VEZ MAIS PRÓXIMO DO PLANETA TERRA-2
+
+NONA TELA: (SÉTIMA SEMANA)
+O CAPITÃO PEDIU PARA QUE ALGUÉM DESSE UMA OLHADA NOS COMPUTADORES E O INFORMASSE DE ALGUM PROBLEMA NA NAVE, CASO EXISTA!
+...VOCÊ SE ENCARREGA DISTO? 
+1. SIM(-5 STAMINA)
+2. NÃO(+5 STAMINA)
+
+
+
+DÉCIMA TELA: (SÉTIMA SEMANA)
+APÓS A CHECAGEM, DESCOBRIRAM UM VAZAMENTO DE COMBUSTIVEL NO RESERVATÓRIO..
+JULIE ADAMS SE ENCARREGOU DE CONSERTAR, PORÉM OUVE PERDA DE COMBUSTIVEL QUE PRECISA SE RECUPERADA
+(-30 FUEL - SHIP)
+
+
+
+
+
+DÉCIMA PRIMEIRA TELA: (SÉTIMA SEMANA)
+AO FIM DA SÉTIMA SEMANA O CAPITÃO O ENVIOU, COM DAVID SMITH(EXPLORADOR) E EMILY SUZAN(MÉDICA) A UM PLANETA REMOTO QUE POSSUI UMA GRANDE QUANTIDADE DE MINÉRIOS, QUE SE COLETADOS, PODEM SER TRANSFORMADOS EM COMBUSTIVEL. DAVID POR TER EXPERIÊNCIA COMO EXPLORADOR, FOI COM VOCÊ, EMILY SUZAN POR SER MÉDICA, FOI COM VOCÊS PARA GARANTIR QUE VOLTEM BEM, CASIO SURJA UM IMPREVISTO...
+
+
+
+
+DÉCIMA SEGUNDA TELA: (OITAVA SEMANA)
+*TELA DE MINERAÇÃO ESPACIAL
+CADA CLIQUE UMA UNIDADE COMBUSTIVEL A MAIS
+
+
+DÉCIMA TERCEIRA TELA: (NONA SEMANA)
+ATENÇÃO!
+ATENÇÃO!
+ATENÇÃO!
+
+APÓS UMA LONGA SEMANA DEDICADA A MINERAÇÃO
+VOCÊ FICOU COM UM DOS PÉS PRESOS EM UMA DAS ESTRUTURAS IRREGULARES DO PLANETA EM QUESTÃO, O MACHUCANDO SERIAMENTE SUA PERNA!
+MAS EMILY ESTAVA POR PERTO E SEUS CURATIVOS AMENIZARAM O ESTRAGO!
+(-30HP - PLAYER)
+
+DÉCIMA TERCEIRA TELA: (NONA SEMANA)
+AO VOLTAR PARA A NAVE, VOCÊ FOI OBRIGADO A NÃO PODER AJUDAR NAS ATIVIDADES DA NAVE
+(+10HP - PLAYER)(+10 STAMINA)
+
+DÉCIMA QUARTA TELA: (DÉCIMA SEMANA)
+APÓS UMA SEMANA, VOCÊ JÁ ESTAVA MELHOR, GRAÇAS AOS CUIDADOS DE EMILY SUZAN.
+A TERRA-2 JÁ PODIA SER AVISTADA PELOS RADARES DE LONGO ALCANCE, AINDA QUE HÁ UMA SEMANA DE DISTÂNCIA, FALTAVA POUCO PARA QUE A MISSÃO APOLLO 2098 FOSSE UM SUCESSO!
+
+TIMING
+
+DÉCIMA QUINTA TELA: (DÉCIMA PRIMEIRA SEMANA)
+INESPERADAENTE, AS PREVISÕES DE OBSTACULOS NO CAMINHO, FACILITARAM O TRAJETO DA NAVE, O FAZENDO CHEGAR COM POUCO MENOS DE UMA SEMANA DE ANTECEDÊNCIA!
+
+AO CHEGAR NO PLANETA, OS TRIPULANTES SE DIVIDIRAM E FORAM CHECAR AS CONDIÇÕES DE SOBREVIVENCIA DO LOCAL.
+POR JÁ ESTAR RECUPERADO DO SEU FERIMENTO, VOCÊ TAMBÉM PARTICIPOU DESTA COLETA DE DADO
+(+10 HP - PLAYER)
+
+OXIGÊNIO... OK!
+ÁGUA... OK!
+TEMPERATURA...OK!
+VEGETAÇÃO SEMELHANTE A DA TERRA... OK!
+
+EM UMA SEMANA, TODOS OS DADOS FORAM COLETADOS, MAIS UMA PARTE DA MISSÃO FOI CONCLUIDA!
+(-20 STAMINA - PLAYER)(+10 - HAPPINESS)
+MAS A ESTÁ ALTURA, O BURACO DE MINHOCA JÁ SOFRIA COM FALTA DE ESTABILIDADE E O PRAZO ESTAVA EM CIMA DO PERIODO ESTIMADO.
+AO TENTAREM TRANSMITIR O RELATÓRIO COM AS INFORMAÇÕES RELEVANTES SOBRE O PLANETA E QUE ELE ESTAVA APTO PARA A CONTINUAÇÃO DA VIDA HUMANA NELE, OUVE UM ERRO... DEVIDO A INSTABILIDADE NO BURACO DE MINHOCA, AS INFORMAÇÕES NÃO ESTAVAM SENDO PASSADAS...
+
+O CAPITÃO ,ENTÃO, RESOLVEU TOMAR UMA DECISÃO... A DE PERMANECER NAQUELE PLANETA E NÃO ARRISCAR A VOLTA, POIS TALVEZ NÃO HOUVESSE COMBUSTIVEL E A NAVE NÃO AGUENTASSE ATRAVESSAR O BURACO DE MINHOCA NOVAMENTE..
+
+STEVE:"EU COMO CAPITÃO DESTA MISSÃO, DIGO QUE NÃO VOLTAREMOS, NÃO IREI POR NOSSAS VIDAS EM RISCO DESTA MANEIRA, TEMOS TUDO QUE É NECESSÁRIO PARA A PROSPERIDADE DA RAÇA HUMANA NESTE PLANETA E NÃO PRECISAMOS PERDER NOSSAS VIDAS DESSE JEITO"
+
+DECIMA SEXTA TELA: (DÉCIMA SEGUNDA SEMANA)
+
+- 1. "NÃO EXISTE NENHUMA MANEIRA DE AVISA-LOS?"
+REPOSTA : STEVE:"TERIAMOS APENAS UMA CHANCE, QUE SERIA DA NAVE RESISTIR AO BURACO DE MIHHOCA E AO ATRAVESSARMOS TRANSMITISSEMOS O RELATÓRIO, MAS LOGO APÓS ISTO, NOSSO OXIGÊNIO ACABARIA, NÃO TERIAMOS COMBUSTIVEL OU ESTURUTRA PARA TAL, OS DANOS SERÃO EXTREMAMENTE SEVEROS POR SER A SEGUNDA VEZ QUE PASSARIAMOS... EM OUTRAS PALAVRAS, CUSTARÁ NOSSAS VIDAS"
+
+$:"SE HOUVER UMA CHANCE, TEMOS QUE TENTAR, MESMO QUE CUSTE NOSSAS VIDAS"
+
+STEVE:"VOCÊ NÃO FARÁ ISTO, OBEDEÇA MINHAS ORDENS!"
+
+DÉCIMA SÉTIMA TELA: (DÉCIMA SEGUNDA SEMANA)
+
+1. VOCÊ ACEITA A ESCOLHA DO CAPITÃO
+2. VOCÊ NÃO ACEITA A ESCOLHA DO CAPITÃO
+
+SE ESCOLHA == 1; FIM DE JOGO;
+SE ESCOLHA == 2; VOCÊ NUMA TENTATIVA DE MUDAR ESTE PANORAMA, PRENDE O CAPITÃO NUM COMPARTIMENTO DA NAVE E O DEIXA NESTE PLANETA, MAS CONVERSOU COM BRYAN PARA PROGRAMAR O COMPARTIMENTO A ABRIR QUANDO SE PASSAREM 3 HORAS, O CAPITÃO FICARIA A SALVO, POR SUA ABUNDANCIA DE RECURSOS E VOCÊ ACREDITA QUE A HUMANIDADE LOGO ESTARÁ LÁ, AO LADO DELE.
+
+

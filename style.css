@@ -1,0 +1,313 @@
+
+#div_back{
+
+    background-image: url("midia/space_2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    background-color: rgba(0, 0, 0, 0.3);
+    
+}
+
+#status_lateral{
+    
+    
+}
+
+#principal{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+#p_status{
+    color: white;
+    text-align: center;
+    padding-top:
+}
+
+#cor_hp{
+    background-color: #07f12e;
+    color: black;
+}
+#cor_stamina{
+    background-color: #4e6af4;
+    color: black;
+}
+
+#cor_felicidade{
+    background-color: #fffb00;
+    color: black;
+}
+#cor_dados{
+    background-color: #6800ff;
+    color: black;
+}
+#cor_hp_nave{
+    background-color: #ff0000;
+    color: black;
+}
+#cor_fuel{
+    background-color: #ff9b00;
+    color: black;
+}
+
+
+
+/*CLASS*/
+
+.display-3{
+    color: #343a40;
+    font-size: 40px !important;
+}
+
+.jumbotron{
+    margin-bottom: 0px !important;
+    border-radius: 0px !important;
+}
+
+.btn-dark-orcamento{
+    color: #fff !important;
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+}
+  
+.btn-dark-orcamento:hover{
+    color: rgb(0, 0, 0) !important;
+    background-color: #fff !important;
+    border-color: #fff !important;
+}
+/* MUDAR O COR DO TEXTO DA NAV BAR */
+.navbar-dark a{
+    color: white !important;
+    font-family: "Calibri";
+    font-size: 20px;
+
+}
+.navbar-dark a:hover{
+    color: #A9A9A9 !important;
+}
+
+
+/*footer */
+.full {
+    width: 100%;    
+}
+.gap {
+    height: 30px;
+    width: 100%;
+    clear: both;
+    display: block;
+}
+.footer {
+    background: #000000;
+    height: auto;
+    padding-bottom: 30px;
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.footer p {
+    margin: 0;
+}
+.footer img {
+    max-width: 100%;
+    padding-top: 16px ;
+}
+.footer h3 {
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    padding: 40px 0 0px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.footer h4 {
+    color: white;
+    font-size: 2em;
+    font-weight: 600;
+    line-height: 38px;
+    padding: 40px 0 10px;
+    font-family: cursive;
+    font-weight: lighter
+}
+
+.footer ul {
+    font-size: 13px;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 0px;
+    color: #7F8C8D;
+    padding: 0 0 8px 0;
+}
+
+.email{
+  border-bottom: 3px solid #fff;
+}
+.footer ul li a {
+    padding: 0 0 12px 0;
+    display: block;
+}
+
+.footer p {
+    color: white;
+    font-weight: lighter;
+    font-size: 
+}
+.footer a {
+    color: white;
+    font-weight: lighter;
+}
+
+
+
+.footer a:hover {
+    text-decoration:none;
+    font-weight: bold;
+}
+.supportLi h4 {
+    font-size: 20px;
+    font-weight: lighter;
+    line-height: normal;
+    margin-bottom: 0 !important;
+    padding-bottom: 0;
+}
+
+
+}
+.footer a {
+    color: #78828D
+}
+
+.footer-bottom {
+    margin-top: 2em;
+    border-top: 1px solid #DDDDDD;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.footer-bottom p.pull-left {
+    padding-top: 6px;
+    font-size: 0.75em
+}
+
+/*login, register and animation*/
+
+/*Fazer o formulário aparecer suavemente, quando a pagina abrir*/
+
+form{
+    overflow: hidden;
+    animation: fade 0.2s;
+    background-color:white;
+    border-radius:10px;
+}
+
+form .input-block:nth-child(1){
+    animation-name: move;
+    animation-duration: 600ms;
+    animation-delay: 50ms;
+
+}
+
+form .input-block:nth-child(2){
+    animation-name: move;
+    animation-duration: 600ms;
+    animation-delay: 100ms;
+    animation-fill-mode: backwards;
+
+}
+
+form .input-block:nth-child(3){
+    animation-name: move;
+    animation-duration: 600ms;
+    animation-delay: 150ms;
+    animation-fill-mode: backwards;
+
+}
+
+form .input-block:nth-child(4){
+    animation-name: move;
+    animation-duration: 600ms;
+    animation-delay: 200ms;
+    animation-fill-mode: backwards;
+
+}
+
+form .input-block:nth-child(5){
+    animation-name: move;
+    animation-duration: 600ms;
+    animation-delay: 250ms;
+    animation-fill-mode: backwards;
+}
+form .btn-register{
+    animation-name: move;
+    animation-duration: 600ms;
+    animation-delay: 300ms;
+    animation-fill-mode: backwards;
+
+}
+form .btn-login{
+    animation-name: move;
+    animation-duration: 600ms;
+    animation-delay: 200ms;
+    animation-fill-mode: backwards;
+
+}
+
+@keyframes move {
+    from {
+        opacity: 0;
+        transform: translateX(-35%);
+    }
+    to{
+        opacity: 1;
+        transform: translateX(0%)
+    }
+}
+
+@keyframes fade {
+    from{
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to{
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/*Quando clicar no button, sumir com o form*/
+
+.form-hide{
+    animation: down 1200ms forwards;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+@keyframes down {
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(100vh);
+    }
+}
+
+/* FORM NO-NO*/
+
+form.validate-error{
+    animation: nono 200ms, fade paused;
+    animation-iteration-count: 2;
+}
+
+@keyframes nono {
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+    35% {
+        transform: translateX(-15%);
+    }
+    70% {
+        transform: translateX(15%);
+    }
+}
